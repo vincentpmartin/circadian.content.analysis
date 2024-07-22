@@ -15,7 +15,7 @@ The data and notebook contained in this repository foster the reproducibility of
 Furthermore, to give the community a useful tool that can be used by any clinicians without any knowledge of coding, we set up a 👉[Binder repository](https://mybinder.org/v2/gh/vincentpmartin/circadian.content.analysis/main?labpath=jupyter_notebook_circadian_content_analysis.ipynb)👈, guiding the reader to run the code in a fully online environemnent. 
 
 ## HTML files, tables and figures
-The analyze files corresponding to the [current study](https://raw.githack.com/vincentpmartin/circadian.content.analysis/main/jupyter_notebook_circadian_content_analysis.html) is available in this repository. <br>
+The analyze files corresponding to the [current study](https://rawcdn.githack.com/vincentpmartin/circadian.content.analysis/b7dc54ee48b1eb411ce3b4a4001e1aad9f1425a1/jupyter_notebook_circadian_content_analysis.html) is available in this repository. <br>
 The figures and tables produced by this code are available in the [./tables_and_figures](./tables_and_figures) folder. 
 
 If you want to customize the code or run the analysis on your own data, please read 👇 next Section 👇
