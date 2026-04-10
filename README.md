@@ -8,7 +8,7 @@ This work is licensed under a
 
 ## Description
 The data and notebook contained in this repository foster the reproducibility of the following paper: 
-*  Coelho J, Martin VP, Gauld C, D'Incau E, Geoffroy PA, Bourgin P, Philip P, Taillard J, Micoulaud-Franchi JA, The clinical physiology of circadian rhythm: a systematic and hierarchized content analysis of the circadian questionnaires. *Under review*. 2024. 
+*  Coelho J, Martin VP, Gauld C, D'Incau E, Geoffroy PA, Bourgin P, Philip P, Taillard J, Micoulaud-Franchi JA, The clinical physiology of circadian rhythm: a systematic and hierarchized content analysis of the circadian questionnaires. Int J Clin Health Psychol. 2025  [https://doi.org/10.1016/j.ijchp.2025.100563](doi: 10.1016/j.ijchp.2025.100563)
 
 
 
